@@ -1,1 +1,21 @@
-{"packageDirectories": [{"path": "force-app", "default": true}], "namespace": null, "sourceApiVersion": "62.0"}
+{
+    "packageDirectories": [
+      {
+        "path": "force-app",
+        "default": true,
+        "package": "BRIOLabs---Mass-Tort",
+        "versionName": "ver 0.1",
+        "versionNumber": "0.1.0.NEXT",
+        "versionDescription": "",
+        "namespace": "brio",
+        "dependencies": [ 
+          {
+            "subscriberPackageVersionId": "04t1T00000072EQ"
+         }
+         ]
+      }
+    ],
+    "name": "BRIOLabs---Mass-Tort",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "62.0"
+ }
